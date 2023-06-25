@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ByteBard32
+- 👋Hi, I am Aqib sher, a passionate game developer eager to connect and collaborate with fellow developers and creators
 - 👀 I’m interested in making Productive and Interesting Games
 - 🌱 I’m currently learning Unreal Engine, done with Unity and C#
 - 💞️ I'm looking to collaborate on indie game projects that focus on immersive storytelling and unique gameplay mechanics
